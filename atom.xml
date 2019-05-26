@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/Lynn/Documents/Gridea/output</id>
+    <id>http://Mingyue99.github.io</id>
     <title>明月宴</title>
-    <updated>2019-05-26T06:57:14.969Z</updated>
+    <updated>2019-05-26T07:00:23.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/Lynn/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/Lynn/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="http://Mingyue99.github.io"/>
+    <link rel="self" href="http://Mingyue99.github.io/atom.xml"/>
     <subtitle>读书写作，记录生活</subtitle>
-    <logo>C:/Users/Lynn/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/Lynn/Documents/Gridea/output/favicon.ico</icon>
+    <logo>http://Mingyue99.github.io/images/avatar.png</logo>
+    <icon>http://Mingyue99.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 明月宴</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/Lynn/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/Lynn/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>http://Mingyue99.github.io/post/hello-gridea</id>
+        <link href="http://Mingyue99.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
